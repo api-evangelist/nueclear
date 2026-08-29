@@ -8,6 +8,17 @@ description: 'Nueclear Healthcare Limited, founded in 2011 and powered by Thyroc
   Lucknow, Nashik and Surat. Nueclear is a consumer diagnostic-imaging provider and
   publishes no public developer API surface.'
 url: https://raw.githubusercontent.com/api-evangelist/nueclear/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
